@@ -1,7 +1,7 @@
-var Basic = function(front, back) {
+var BasicCard = function(front, back) {
 		this.front = front;
 		this.back = back;
 	}	
 
 // exports cloze constructor
-module.exports = basic; 
+module.exports = BasicCard;
